@@ -1,5 +1,5 @@
 <div align="center" padding=25px>
-    <img src="images/confluent.png" width=50% height=50%>
+    <img src="images/confluentgoogleAI.png" width=50% height=50%>
 </div>
 
 # <div align="center">Unlock the Power of Streaming Data: Build Predictive Models with Google AI</div>
